@@ -12,6 +12,7 @@ public:
     {
         accountNumber = accNo;
         balance = initialBalance;
+        
     }
 
     void deposit(double amount)
